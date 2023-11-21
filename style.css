@@ -79,10 +79,8 @@ body {
     height: 33px;
     border-radius: 16px;
     background: rgb(255 175 0);
-    ;
     color: black;
     border: 2px solid rgb(255 175 0);
-    ;
     margin: 9px 0px 9px 9px;
     cursor: pointer;
 }
